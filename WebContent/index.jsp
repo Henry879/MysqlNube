@@ -24,7 +24,7 @@
 
         <form action="insertar.jsp" method="post" class="p-3 shadow-sm bg-white rounded">
             <div class="form-group">
-                <label for="nombre"><strong>Nombre:</strong></label>
+                <label for="nombre"><strong>pea:</strong></label>
                 <input type="text" class="form-control" id="nombre" name="nombre" />
             </div>
             <div class="form-group mt-3">
